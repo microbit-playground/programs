@@ -14,7 +14,6 @@ Repository for the microbit playground code section.
 | [bauble]      |  [Geek Fish]      |   None [^1]   |
 | [snowflake]   |  [Geek Fish]      |   None [^2]   |
 
-
 [8ball]: https://www.flickr.com/photos/23307937@N04/6521326205
 [counter]: https://commons.wikimedia.org/wiki/File:Hand_tally_and_knitting_row_counter_007.jpg
 [button]: https://commons.wikimedia.org/wiki/File:Not-Aus_Bet%C3%A4tiger.jpg
