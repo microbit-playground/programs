@@ -71,9 +71,9 @@ answers = ["It is certain", "Dont count on it", "Ask again",]
 if accelerometer.was_gesture("shake") is True:
 {% endhighlight %}
 
-`.was_gesture()` returns a string containing the name of the most recently detected gesture. These can be `shake`, `freefall`, etc.
+`.was_gesture(gesture)` returns a True or False depending on whether `gesture` was the most recently detected gesture. `.was_gesture(freefall)` would return `True` if the microbit was thrown into the air.
 
-If it is True (the micro:bit has been shaken) it generates a random message. The [API for the `accelerometer` module lists other gestures that can be uesd.](http://microbit-micropython.readthedocs.org/en/latest/accelerometer.html)
+The [API for the `accelerometer` module lists other gestures that can be used.](http://microbit-micropython.readthedocs.org/en/latest/accelerometer.html)
 
 #### Random Choice from List
 
