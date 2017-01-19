@@ -30,6 +30,7 @@ aboutbox: "Make a simple Christmas bauble to scroll a festive message across the
 # Difficulty of program: easy, medium or ninja
 cats: easy
 
+date: 2016-12-23T10:20:00Z
 ---  
 
 {% highlight python %} {% include_relative code/christmas-bauble.py %} {% endhighlight %}

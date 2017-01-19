@@ -26,8 +26,9 @@ strapline: "`random` to pick an item from a list"
 aboutbox: "Make a funky 8-ball for the microbit. It shows a different message each time it's shaken."
 
 # Difficulty of program: easy, medium or ninja
-cats: easy 
+cats: easy
 
+date: 2016-12-23T10:20:00Z
 ---
 
 {% highlight python %}
@@ -70,7 +71,7 @@ answers = ["It is certain", "Dont count on it", "Ask again",]
 if accelerometer.was_gesture("shake") is True:
 {% endhighlight %}
 
-`.was_gesture()` returns a string containing the name of the most recently detected gesture. These can be `shake`, `freefall`, etc. 
+`.was_gesture()` returns a string containing the name of the most recently detected gesture. These can be `shake`, `freefall`, etc.
 
 If it is True (the micro:bit has been shaken) it generates a random message. The [API for the `accelerometer` module lists other gestures that can be uesd.](http://microbit-micropython.readthedocs.org/en/latest/accelerometer.html)
 
@@ -80,7 +81,7 @@ If it is True (the micro:bit has been shaken) it generates a random message. The
 display.scroll(answers.choice)
 {% endhighlight %}
 
-`.choice` picks a random item from the `answers` list. 
+`.choice` picks a random item from the `answers` list.
 
 Using `random` requires the `random` module to be imported. This is done at the beginning of the program:
 

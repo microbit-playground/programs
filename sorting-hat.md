@@ -29,6 +29,7 @@ aboutbox: "Pick a random item from a list when the microbit button is pressed."
 # Difficulty of program: easy, medium or ninja
 cats: easy
 
+date: 2016-12-23T10:20:00Z
 ---
 
 {% highlight python %}

@@ -27,9 +27,11 @@ aboutbox: "Try to keep the microbit level"
 
 # Difficulty of program: easy, medium or ninja
 cats: ninja
+
+date: 2016-12-23T10:20:00Z
 ---
 
-Move the micro:bit through the x- and y axis to illuminate all the squares. 
+Move the micro:bit through the x- and y axis to illuminate all the squares.
 
 {% highlight python %}
 {% include_relative code/tilty.py %}
