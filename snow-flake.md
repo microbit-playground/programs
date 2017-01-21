@@ -29,7 +29,8 @@ aboutbox: "Builds a 3x3 image for the display. This is rotated (or mirrored) to 
 # Difficulty of program: easy, medium or ninja
 cats: medium
 
-date: 2016-12-23T10:20:00Z
+date:         2016-12-23T10:20:00Z
+date-updated: 2016-12-23T10:20:00Z
 ---
 
 {% highlight python %}

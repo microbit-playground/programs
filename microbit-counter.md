@@ -29,7 +29,8 @@ aboutbox: "A super-simple program to count how many times a button was pressed."
 # Difficulty of program: easy, medium or ninja
 cats: easy
 
-date: 2016-12-23T10:20:00Z
+date:         2016-12-23T10:20:00Z
+date-updated: 2016-12-23T10:20:00Z
 ---
 
 {% highlight python %}{% include_relative code/microbit-counter.py %} {% endhighlight %}

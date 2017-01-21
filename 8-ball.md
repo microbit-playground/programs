@@ -28,7 +28,8 @@ aboutbox: "Make a funky 8-ball for the microbit. It shows a different message ea
 # Difficulty of program: easy, medium or ninja
 cats: easy
 
-date: 2016-12-23T10:20:00Z
+date:         2016-12-23T10:20:00Z
+date-updated: 2016-12-23T10:20:00Z
 ---
 
 {% highlight python %}

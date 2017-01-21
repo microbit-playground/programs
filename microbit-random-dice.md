@@ -27,7 +27,9 @@ aboutbox: "Make a dice to display a random image each time the microbit is shake
 # Difficulty of program: easy, medium or ninja
 cats: easy
 
-date: 2017-01-18T10:20:00Z
+date:         2017-01-18T10:20:00Z
+date-updated: 2017-01-18T10:20:00Z
+
 ---
 
 {% highlight python %}

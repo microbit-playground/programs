@@ -29,7 +29,8 @@ aboutbox: "Using the buttons on the front of the microbit to display a message"
 # Difficulty of program: easy, medium or ninja
 cats: medium
 
-date: 2016-12-23T10:20:00Z
+date:         2016-12-23T10:20:00Z
+date-updated: 2016-12-23T10:20:00Z
 ---
 
 {% highlight python %}
