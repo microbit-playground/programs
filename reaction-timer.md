@@ -125,3 +125,10 @@ When `button_a.was_pressed()`, `reset()` is called which restarts the microbit a
 
 * It's possible to cheat but pressing `button_b` when the clock animation is showing. Introduce a way of stopping the cheating.
 * Make a two player game.
+
+
+
+### See More
+
+* This program is also [written up here](http://blog.rareschool.com/2017/01/a-simple-reaction-timer-in-micropython.html).
+* The code is available [on github](https://github.com/microbit-and-chips/reaction-timer).
